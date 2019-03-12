@@ -1,0 +1,29 @@
+body{
+    background: #ff8c00;
+}
+p{
+    color: purple;
+    text-align: center;
+}
+p.esquerda{
+    color: greenyellow;
+    text-align: right;
+}
+.formato2{
+    color: aquamarine;
+    text-align: left;
+    font-family: 'Times New Roman';
+}
+h1,h2,h3{
+    color: lavenderblush;
+}
+h4,h5,h6{
+    color: palevioletred;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: grey;
+    font-size: 135%;
+}
